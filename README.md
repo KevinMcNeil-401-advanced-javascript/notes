@@ -38,4 +38,4 @@
 
 (Created with [diagrams](https://app.diagrams.net/))
 
-![UML Diagram](uml.png)
+![UML Diagram](img/uml.png)
