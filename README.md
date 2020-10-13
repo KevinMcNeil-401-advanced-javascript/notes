@@ -1,9 +1,10 @@
 # notes
-# LAB - 00
+
+# LAB - 01
 
 ## Deployment Test
 
-### Author: John Cokos
+### Author: Kevin McNeil (copied from John Cokos)
 
 - [tests report](https://github.com/codefellows/code-401-javascript-example-lab/actions)
 - [front-end](https://code-401-js-lab-example.herokuapp.com/status)
