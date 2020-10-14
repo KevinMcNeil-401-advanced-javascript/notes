@@ -7,7 +7,7 @@ const input = require('./lib/input.js');
 const note = require('./lib/notes.js');
 let argv = process.argv;
 
-let newNote = input(argv);
+let newNote = new input(argv);
 let obj =  new note(newNote);
 console.log(obj);
 
