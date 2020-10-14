@@ -9,6 +9,10 @@
 - [tests report](https://github.com/codefellows/code-401-javascript-example-lab/actions)
 - [front-end](https://code-401-js-lab-example.herokuapp.com/status)
 
+### Resources and helps
+
+ - Lots of help from Sara R.
+ - (link to Console messages with jest)[https://stephencharlesweiss.com/jest-testing-spyon-consoles/]
 ### Setup
 
 #### `.env` requirements
