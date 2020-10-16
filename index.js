@@ -11,7 +11,6 @@ const mongoose = require('mongoose');
 
 let newNote = new input(argv);
 let obj = new note(newNote);
-console.log(obj);
 obj.execute();
 
 mongoose.connect('mongodb://localhost:27017/notes', {

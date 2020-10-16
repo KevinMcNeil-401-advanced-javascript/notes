@@ -11,8 +11,10 @@
 
 ### Resources and helps
 
- - Lots of help from Sara R.
- - (link to Console messages with jest)[https://stephencharlesweiss.com/jest-testing-spyon-consoles/]
+ - mob programmed with Sara R, Michael E, and Spencer L.
+ - [link to Console messages with jest](https://stephencharlesweiss.com/jest-testing-spyon-consoles/)
+ - [help from Mongoosejs.com](https://mongoosejs.com/docs/api.html#model_Model.deleteOne)
+
 ### Setup
 
 #### `.env` requirements
